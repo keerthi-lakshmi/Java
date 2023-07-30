@@ -1,0 +1,12 @@
+Problem Statement : Multiple  Checker
+
+Question Description: Create a program that checks if a number is a multiple of second number. The program should accept an integer 'n1' & 'n2' as input.
+
+Boiler Plate Code:
+
+public class Main { public static void checkMultiple(int n1, int n2) { // your code here } public static void main(String[] args) { checkMultipleOfTen(20); } }
+
+Sample Input: 120
+6
+
+Sample Output:  120 is a multiple of 6
